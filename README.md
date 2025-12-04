@@ -32,7 +32,7 @@ This code was developed as part of the Master's Thesis work, focusing on:
 - Improving training stability and model explainability
 
 ## 📚 References
-Gao, Z., Guo, Y., Li, Y., Lei, B., "EEG-Based Spatio–Temporal Convolutional Neural Network for Driver Fatigue Evaluation," IEEE Transactions on Neural Networks and Learning Systems.
+Z. Gao et al., "EEG-Based Spatio–Temporal Convolutional Neural Network for Driver Fatigue Evaluation," in IEEE Transactions on Neural Networks and Learning Systems, vol. 30, no. 9, pp. 2755-2763, Sept. 2019, doi: 10.1109/TNNLS.2018.2886414. 
 
 ## 📝 License
 This branch is for academic research purposes. Redistribution of datasets must follow their respective licenses.
